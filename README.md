@@ -455,7 +455,7 @@ LM Studio handles the remote model route through LM Link.
 - Keep changes small, reviewable, and traceable through Git.
 - Maintain human review for all production changes.
 
-## Recommended DevPlat Standard
+## A Proposed Vibe Code Standard
 
 ```text
 IDE: VS Code
