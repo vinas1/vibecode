@@ -469,4 +469,5 @@ Fallback Model: Qwen2.5 Coder 14B
 
 Cline provides the agent workflow, LM Studio provides local model inference, and Gemma 4 provides the approved local model.
 
-Continue is not required for this workflow.
+#### Previous state
+Pre mid 2026, I encouraged the use of "Continue" plugin with this workflow however, model support is lacking for USA based models along with frequent agent errors, so I no longer recommend the use of Continue until the stability issues are resolved. As a result, Continue is not required for this workflow and should be uninstalled to reduce congnitive load and friction. *Happy vibing!*
