@@ -12,6 +12,8 @@ Visual Studio Code
             └── Gemma 4 12B QAT
 ```
 
+*see more in the* [architecture.md](https://github.com/vinas1/vibecode/blob/main/architecture.md)
+
 | Component | Standard |
 |---|---|
 | IDE | Visual Studio Code |
